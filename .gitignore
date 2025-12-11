@@ -1,0 +1,12 @@
+# Ignore Virtual Environment (Must match your folder name!)
+myvenv/
+
+# Ignore Environment Variables
+.env
+
+# Ignore System Files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+dataset/vector_store/

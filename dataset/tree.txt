@@ -1,0 +1,10 @@
+Folder PATH listing for volume CLASSROOM
+Volume serial number is 60E7-5850
+D:.
+|   tree.txt
+|   
++---uploaded_pdfs
+|       DMP I 2025 (1).pdf
+|       DMP II 2025 (1).pdf
+|       
+\---vector_store
